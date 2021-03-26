@@ -2,6 +2,9 @@
 
 🐱
 ![JPCapoo´s GitHub stats](https://github-readme-stats.vercel.app/api?username=jpcapoo)
+![JPCapoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpcapoo&show_icons=true)
+![JPCapoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpcapoo&show_icons=true&theme=radical)
+
 
 <!--
 **JPCapoo/JPCapoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
