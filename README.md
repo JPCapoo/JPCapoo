@@ -2,8 +2,6 @@
 
 🐱
 ![JPCapoo´s GitHub stats](https://github-readme-stats.vercel.app/api?username=jpcapoo)
-![JPCapoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpcapoo&show_icons=true)
-![JPCapoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpcapoo&show_icons=true&theme=radical)
 
 
 <!--
