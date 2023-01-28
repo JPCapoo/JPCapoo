@@ -2,10 +2,10 @@
 
 ![JPCapoo´s GitHub stats](https://github-readme-stats.vercel.app/api?username=jpcapoo)
 
-- 🔭 I’m currently working on a finance and administration web service
-- 🌱 I’m currently learning Web Development technologies
+- 🔭 I’m currently working on a mobile app and a marketplace website.
+- 🌱 I’m currently learning Advanced JS.
 - 👯 I’m looking to collaborate on innovative ideas
-- ⚡ Fun fact: I love Tennis and I´m allergic to Nutella
+- ⚡ Fun fact: I love Tennis and Running.
 - 📫 How to reach me: https://www.linkedin.com/in/juanpcapobianco/ 
 
 <!--
